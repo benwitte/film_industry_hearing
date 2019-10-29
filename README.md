@@ -1,5 +1,7 @@
 # Film Industry Permit Analysis
 
+### Note: All Analysis Conducted by New York City Counsel. This is a copy of original repository, found here: https://github.com/NewYorkCityCouncil/film_industry_hearing
+
 **Contents**
 
 This document combines files from Kyle Walker's [tidycensus](https://walkerke.github.io/tidycensus/index.html) and [Open Data](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p) to map and analyze the distribution of film permits.
