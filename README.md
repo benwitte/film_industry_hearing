@@ -1,6 +1,6 @@
 # Film Industry Permit Analysis
 
-### Note: All Analysis Conducted by New York City Counsel. This is a copy of original repository, found here: https://github.com/NewYorkCityCouncil/film_industry_hearing
+### Note: All Analysis Conducted by New York City Council. This is a copy of original repository, found here: https://github.com/NewYorkCityCouncil/film_industry_hearing
 
 **Contents**
 
